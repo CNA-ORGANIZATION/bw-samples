@@ -1,0 +1,1 @@
+Not Applicable - No mainframe Oracle code detected.

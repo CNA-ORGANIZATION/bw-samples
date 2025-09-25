@@ -1,0 +1,1 @@
+Not Applicable - No DB2 dependencies detected, no migration testing strategy required.

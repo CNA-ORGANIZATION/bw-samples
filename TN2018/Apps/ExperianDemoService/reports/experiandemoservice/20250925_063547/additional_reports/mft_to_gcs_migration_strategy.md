@@ -1,0 +1,1 @@
+Not Applicable - No MFT integrations detected, no migration strategy required.

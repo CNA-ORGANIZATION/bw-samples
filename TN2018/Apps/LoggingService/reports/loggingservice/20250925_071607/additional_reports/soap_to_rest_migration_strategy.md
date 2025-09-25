@@ -1,0 +1,1 @@
+Not Applicable - No SOAP endpoints detected, no migration strategy required.

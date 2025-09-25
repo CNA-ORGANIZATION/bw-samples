@@ -1,0 +1,1 @@
+Not Applicable - No traditional MQ integrations detected, no migration testing strategy required.
